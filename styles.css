@@ -59,3 +59,8 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+@media (max-width: 600px) {
+  .card {
+    padding: 16px;
+  }
+}
