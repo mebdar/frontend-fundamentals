@@ -10,7 +10,7 @@ It was created to practice GitHub basics, version control, and GitHub Pages depl
 2. Open the `index.html` file in a web browser
 
  Live Demo
-https://Darlene mebdar.github.io/frontend-fundamentals/
+https://mebdar.github.io/frontend-fundamentals/
 
 What I Learned
 - How to create and manage a GitHub repository
