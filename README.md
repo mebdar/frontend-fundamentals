@@ -17,4 +17,11 @@ What I Learned
 - How to make meaningful commits
 - How to deploy a static website using GitHub Pages
 
- 
+Reflection
+
+This task helped me understand how GitHub repositories work and how to push files online.  
+At first, GitHub Pages was confusing because the live link did not appear immediately.  
+I learned how commits track changes step by step.  
+Creating multiple commits helped me understand version control better.  
+I now know how to publish a simple website using GitHub Pages.
+
