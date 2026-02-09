@@ -16,6 +16,7 @@ What I Learned
 - How to create and manage a GitHub repository
 - How to make meaningful commits
 - How to deploy a static website using GitHub Pages
+- how to make the website appealing
 
 Reflection
 
